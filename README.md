@@ -1,6 +1,6 @@
 # Manage-Web 💻📱
 
-Este trabajo corresponde al examen final de la materia Front-End 1. En este desafío nos encargaron la tarea de recrear unna página web y hacer que se parezca lo más posible al diseño.
+Este trabajo corresponde al examen final de la materia Front-End 1. En este desafío nos encargaron la tarea de recrear una página web y hacer que se parezca lo más posible al diseño.
 
 Los requerimientos dados para este trabajo fueron los siguientes:
 
